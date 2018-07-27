@@ -4,6 +4,7 @@
 /doc
 /.fetch
 erl_crash.dump
+*.iml
 *.ez
 *.beam
 /config/*.secret.exs
