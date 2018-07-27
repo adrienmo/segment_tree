@@ -1,4 +1,7 @@
 # SegmentTree
+[![Travis](https://travis-ci.org/adrienmo/segment_tree.svg?branch=master)](https://travis-ci.org/adrienmo/segment_tree)
+[![Coveralls](https://img.shields.io/coveralls/adrienmo/segment_tree.svg?branch=master&style=flat-square)](https://coveralls.io/github/adrienmo/segment_tree)
+[![Hex.pm](https://img.shields.io/hexpm/v/segment_tree.svg?style=flat-square)](https://hex.pm/packages/segment_tree)
 
 Give a data structure to efficiently compute an operation on range
 
