@@ -1,6 +1,6 @@
 # SegmentTree
 
-**TODO: Add description**
+Give a data structure to efficiently compute an operation on range
 
 ## Installation
 
