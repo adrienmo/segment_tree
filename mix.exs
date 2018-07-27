@@ -13,7 +13,7 @@ defmodule SegmentTree.MixProject do
         tool: ExCoveralls
       ],
       package: package(),
-      name: "segment_tree",
+      name: "SegmentTree",
       source_url: "https://github.com/adrienmo/segment_tree",
       preferred_cli_env: [
         "coveralls": :test,
@@ -45,7 +45,7 @@ defmodule SegmentTree.MixProject do
 
   defp package do
     [
-      name: "postgrex",
+      name: "segment_tree",
       files: ["lib", "mix.exs", "README*", "LICENSE*"],
       maintainers: ["Adrien Moreau"],
       licenses: ["MIT"],
